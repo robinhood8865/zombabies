@@ -10,6 +10,9 @@ module.exports = withMT({
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        "pool-1": "url('Assets/Images/Stake_Mock/pool1/template.png'')",
+      },
       colors: {
         "user-main": "#812FBF",
         "user-main-hover": "#610BA1",
