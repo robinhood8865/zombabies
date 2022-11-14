@@ -1,11 +1,11 @@
 import "font-awesome/css/font-awesome.min.css";
-import logo from "./../../Assets/Images/Stake_Mock/logo.png";
-import staking from "../../Assets/Images/Stake_Mock/staking.png";
-import connectwallet from "../../Assets/Images/Stake_Mock/connectwallet.png";
-import unclaimedrewards from "../../Assets/Images/Stake_Mock/unclaimedrewards.png";
-import claimrewards from "../../Assets/Images/Stake_Mock/claimrewards.png";
-import layer from "../../Assets/Images/Stake_Mock/layer.png";
-// import bg from "../../Assets/Images/Stake_Mock/bg.png";
+// import logo from "../../Assets/Images/StakeMock/logo.png";
+import staking from "../../Assets/Images/StakeMock/staking.png";
+import connectwallet from "../../Assets/Images/StakeMock/connectwallet.png";
+import unclaimedrewards from "../../Assets/Images/StakeMock/unclaimedrewards.png";
+import claimrewards from "../../Assets/Images/StakeMock/claimrewards.png";
+import layer from "../../Assets/Images/StakeMock/layer.png";
+// import bg from "../../Assets/Images/StakeMock/bg.png";
 
 import Pool1 from "../../Components/Dashboard/Pool1";
 import Pool2 from "../../Components/Dashboard/Pool2";
@@ -20,7 +20,7 @@ const Dashboard = () => {
       <div className="template">
         <div className="flex justify-center">
           <div className="mt-[42px] flex justify-center">
-            <img src={logo} alt="" />
+            {/* <img src={logo} alt="" /> */}
           </div>
         </div>
         <div className="flex justify-center">

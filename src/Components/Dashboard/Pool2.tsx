@@ -1,22 +1,22 @@
 import { useEffect, useState } from "react";
-// import template from "../../Assets/Images/Stake_Mock/pool1/template.png";
+// import template from "../../Assets/Images/StakeMock/pool1/template.png";
 
-import template from "../../Assets/Images/Stake_Mock/pool1/template.png";
-import head from "../../Assets/Images/Stake_Mock/pool2/head.png";
-import title from "../../Assets/Images/Stake_Mock/pool2/title.png";
-import stake from "../../Assets/Images/Stake_Mock/pool1/batchstake.png";
-import unstake from "../../Assets/Images/Stake_Mock/pool1/batchunstake.png";
-import apr from "../../Assets/Images/Stake_Mock/pool1/apr.png";
-import rate from "../../Assets/Images/Stake_Mock/pool1/rate.png";
-import deposite from "../../Assets/Images/Stake_Mock/pool1/deposite.png";
-import bronze from "../../Assets/Images/Stake_Mock/pool2/bronze.png";
-import bronzefor from "../../Assets/Images/Stake_Mock/pool2/bronzefor.png";
-import silver from "../../Assets/Images/Stake_Mock/pool2/silver.png";
-import silverfor from "../../Assets/Images/Stake_Mock/pool2/silverfor.png";
-import gold from "../../Assets/Images/Stake_Mock/pool2/gold.png";
-import goldfor from "../../Assets/Images/Stake_Mock/pool2/goldfor.png";
-import platinum from "../../Assets/Images/Stake_Mock/pool2/platinum.png";
-import platinumfor from "../../Assets/Images/Stake_Mock/pool2/platinumfor.png";
+import template from "../../Assets/Images/StakeMock/pool1/template.png";
+import head from "../../Assets/Images/StakeMock/pool2/head.png";
+import title from "../../Assets/Images/StakeMock/pool2/title.png";
+import stake from "../../Assets/Images/StakeMock/pool1/batchstake.png";
+import unstake from "../../Assets/Images/StakeMock/pool1/batchunstake.png";
+import apr from "../../Assets/Images/StakeMock/pool1/apr.png";
+import rate from "../../Assets/Images/StakeMock/pool1/rate.png";
+import deposite from "../../Assets/Images/StakeMock/pool1/deposite.png";
+import bronze from "../../Assets/Images/StakeMock/pool2/bronze.png";
+import bronzefor from "../../Assets/Images/StakeMock/pool2/bronzefor.png";
+import silver from "../../Assets/Images/StakeMock/pool2/silver.png";
+import silverfor from "../../Assets/Images/StakeMock/pool2/silverfor.png";
+import gold from "../../Assets/Images/StakeMock/pool2/gold.png";
+import goldfor from "../../Assets/Images/StakeMock/pool2/goldfor.png";
+import platinum from "../../Assets/Images/StakeMock/pool2/platinum.png";
+import platinumfor from "../../Assets/Images/StakeMock/pool2/platinumfor.png";
 
 const Pool2 = (props: any) => {
   const { gamelevel } = props;

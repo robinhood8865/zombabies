@@ -1,12 +1,12 @@
-// import template from "../../Assets/Images/Stake_Mock/pool1/template.png";
-import template from "../../Assets/Images/Stake_Mock/pool1/template.png";
-import head from "../../Assets/Images/Stake_Mock/pool1/head.png";
-import title from "../../Assets/Images/Stake_Mock/pool1/title.png";
-import stake from "../../Assets/Images/Stake_Mock/pool1/batchstake.png";
-import unstake from "../../Assets/Images/Stake_Mock/pool1/batchunstake.png";
-import apr from "../../Assets/Images/Stake_Mock/pool1/apr.png";
-import rate from "../../Assets/Images/Stake_Mock/pool1/rate.png";
-import deposite from "../../Assets/Images/Stake_Mock/pool1/deposite.png";
+// import template from "../../Assets/Images/StakeMock/pool1/template.png";
+import template from "../../Assets/Images/StakeMock/pool1/template.png";
+import head from "../../Assets/Images/StakeMock/pool1/head.png";
+import title from "../../Assets/Images/StakeMock/pool1/title.png";
+import stake from "../../Assets/Images/StakeMock/pool1/batchstake.png";
+import unstake from "../../Assets/Images/StakeMock/pool1/batchunstake.png";
+import apr from "../../Assets/Images/StakeMock/pool1/apr.png";
+import rate from "../../Assets/Images/StakeMock/pool1/rate.png";
+import deposite from "../../Assets/Images/StakeMock/pool1/deposite.png";
 const Pool1 = () => {
   return (
     <div
