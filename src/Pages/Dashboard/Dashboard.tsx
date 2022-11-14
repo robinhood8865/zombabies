@@ -1,5 +1,5 @@
 import "font-awesome/css/font-awesome.min.css";
-import logo from "../../Assets/Images/Stake_Mock/logo.png";
+import logo from "./../../Assets/Images/Stake_Mock/logo.png";
 import staking from "../../Assets/Images/Stake_Mock/staking.png";
 import connectwallet from "../../Assets/Images/Stake_Mock/connectwallet.png";
 import unclaimedrewards from "../../Assets/Images/Stake_Mock/unclaimedrewards.png";
