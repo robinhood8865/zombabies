@@ -5,7 +5,7 @@ import connectwallet from "../../Assets/Images/Stake_Mock/connectwallet.png";
 import unclaimedrewards from "../../Assets/Images/Stake_Mock/unclaimedrewards.png";
 import claimrewards from "../../Assets/Images/Stake_Mock/claimrewards.png";
 import layer from "../../Assets/Images/Stake_Mock/layer.png";
-import bg from "../../Assets/Images/Stake_Mock/bg.png";
+// import bg from "../../Assets/Images/Stake_Mock/bg.png";
 
 import Pool1 from "../../Components/Dashboard/Pool1";
 import Pool2 from "../../Components/Dashboard/Pool2";
