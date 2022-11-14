@@ -1,5 +1,5 @@
 import "font-awesome/css/font-awesome.min.css";
-// import logo from "../../Assets/Images/StakeMock/logo.png";
+import logo from "../../Assets/Images/StakeMock/logo.png";
 import staking from "../../Assets/Images/StakeMock/staking.png";
 import connectwallet from "../../Assets/Images/StakeMock/connectwallet.png";
 import unclaimedrewards from "../../Assets/Images/StakeMock/unclaimedrewards.png";
@@ -20,7 +20,7 @@ const Dashboard = () => {
       <div className="template">
         <div className="flex justify-center">
           <div className="mt-[42px] flex justify-center">
-            {/* <img src={logo} alt="" /> */}
+            <img src={logo} alt="" />
           </div>
         </div>
         <div className="flex justify-center">
